@@ -14,7 +14,7 @@ def create_dir(path):
 
 for base in base_dirs:
     create_dir(base)
-    if base in ["saved_", "predicted_"]:
+    if base in ["saved", "predicted"]:
         for platform in PLATFORMS:
             platform_path = os.path.join(base, platform)
             create_dir(platform_path)
