@@ -1,7 +1,7 @@
 # Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data
 
 
-This anonymized repository provides Python code to reproduce experiments from the paper "Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data", submitted to The ACM Conference on Recommender Systems 2024 (RecSys ‘24) in the reproducibility track.
+This anonymized repository provides Python code to reproduce experiments from the paper _"Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data"_, which is currently under review for presentation at the 18th ACM Conference on Recommender Systems (RecSys 2024) in the reproducibility track.
 
 
 ## Abstract
